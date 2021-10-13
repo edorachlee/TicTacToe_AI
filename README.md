@@ -3,6 +3,8 @@
 
 Author: Chang Hi Lee(lee.c@wustl.edu)
 
+Note: Performed as part of school work. Course number and instructor have been omitted to prevent plagiarism.
+
 Function: Implements a 3x3 board and player objects to play a game of TicTacToe. Can be played with either 1-player or 2-player options.
 
 Usage:
