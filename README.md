@@ -12,8 +12,8 @@ Usage:
 
 Detailed Instructions:
 - Please note this program only works on Windows. 
-- You will be playing this game entirely within your command prompt window. Bring up your command prompt(cmd.exe) and type in the following: cd {DOWNLOAD_LOCATION}\TicTacToe_AI\TicTacToe\x64\Release
-- Replace the entire bracket with the downloaded location of TicTacToe_AI. For example, if you placed it in Downloads, the full command is: cd C:\Users\{user}\Downloads\TicTacToe_AI\TicTacToe\x64\Release. Make sure to replace {user} with your Windows username.
+- You will be playing this game entirely within your command prompt window. Bring up your command prompt(cmd.exe) and type in the following: cd {DOWNLOAD_LOCATION}\tictactoe_AI\TicTacToe\x64\Release
+- Replace the entire bracket with the downloaded location of TicTacToe_AI. For example, if you placed it in Downloads, the full command is: cd C:\Users\{user}\Downloads\tictactoe_AI\TicTacToe\x64\Release. Make sure to replace {user} with your Windows username.
 - Next, run TicTacToe.exe according to the proper usage format. (2-player: TicTacToe.exe TicTacToe, 1-player: TicTacToe.exe TicTacToe auto_player)
 - The game is initialized. Input coordinates by using {x,y}. **Note that the axes range from 0 to 4, but you can only input in spaces 1 to 3.**
 - Play a game of TicTacToe! Choosing the 1-player option will pit you against my AI.
