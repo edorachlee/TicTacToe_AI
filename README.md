@@ -17,6 +17,7 @@ Detailed Instructions:
 - Next, run TicTacToe.exe according to the proper usage format. (2-player: TicTacToe.exe TicTacToe, 1-player: TicTacToe.exe TicTacToe auto_player)
 - The game is initialized. Input coordinates by using {x,y}. **Note that the axes range from 0 to 4, but you can only input in spaces 1 to 3.**
 - Play a game of TicTacToe! Choosing the 1-player option will pit you against my AI.
+
 AI design choice:
 - I conceptualized the board as lines of three pieces(lines can be horizontal, vertical, or diagonal). I classified these lines into subcategories of winning lines, touching lines, balanced lines, or blank lines. 
 - Winning lines had two pieces of a same piece with an empty space, touching lines had one piece with two empty spaces, balanced lines had two different pieces with one empty space, and blank lines had no pieces. 
