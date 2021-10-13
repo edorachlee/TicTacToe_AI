@@ -1,0 +1,15 @@
+﻿  Main.cpp
+  TicTacToeGame.cpp
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(355,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(371,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(374,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(390,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(393,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(407,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\TicTacToeGame.cpp(410,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  431 of 443 functions (97.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TicTacToe.vcxproj -> C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\x64\Release\TicTacToe.exe

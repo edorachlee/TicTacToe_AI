@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\x64\Release\TicTacToe.exe
+C:\Users\user\Desktop\lab3-edorachlee-master\TicTacToe\TicTacToe\x64\Release\TicTacToe.exe
