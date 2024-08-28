@@ -1,5 +1,5 @@
 # tictactoe_AI
- A TicTacToe game in C++ that has a built in AI for you to play against. It's smart but not perfect - can you win?
+ A TicTacToe game in C++ that has a built in opponent for you to play against. It's smart but not perfect - can you win?
 
 Author: Chang Hi Lee(lee.c@wustl.edu)
 
